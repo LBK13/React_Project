@@ -1,0 +1,16 @@
+@import './grid.css';
+@import './main.css';
+@font-face{
+    font-family: "Dodo";
+    src: url(../assets/fonts/9b9c7d0c3d1762ac8888.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dodo';
+}
+body{
+    overflow: hidden scroll;
+}
